@@ -140,10 +140,6 @@ l = linked_list()
 l.head = n1
 
 
-l.add(20)
-l.add(40)
-print(l)
 
-print(l)
 
 
